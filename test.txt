@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-hello world
-What happens now?
-=======
-hello
+hello, hello
 We're making changes
->>>>>>> Test_Mods
